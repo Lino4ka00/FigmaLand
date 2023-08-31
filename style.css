@@ -225,7 +225,7 @@ nav {
 }
 
 .gradient img {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 /* -------------features--------------- */
@@ -316,7 +316,7 @@ p {
 
 .head_features_wrap {
     display: flex;
-    align-items: center;
+    align-items: center; 
 }
 
 .feature_item_text {
